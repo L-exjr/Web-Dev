@@ -95,7 +95,7 @@ form {
     margin: 0;
     padding: 0 1em 0;
     padding: 0.875em 1em 0;
-    background-color: inputBG;
+    background-color: #f3fafd;
     border: solid 2px darkBlue;
     border-radius: 4px;
     -webkit-appearance: none;
@@ -184,7 +184,7 @@ form {
         left: 0;
         height: 0.85em;
         width: 0.85em;
-        background-color: inputBG;
+        background-color: #f3fafd;
         border: solid 2px darkBlue;
         border-radius: 3px;
         &:after {
