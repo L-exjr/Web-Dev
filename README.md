@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ofori Alexander Kwasi Junior</h1>
 <h3 align="center">An Undergrad Computer Science Student from Ghana</h3>
 
-- 🌱 I’m currently learning **C++, Web Development, Python and Generative AI**
+- 🌱 I’m currently learning **C++, Web Development, and Python**
 
 - ⚡ Fun fact **The parts for the modern computer were first invented in 1833**
 
